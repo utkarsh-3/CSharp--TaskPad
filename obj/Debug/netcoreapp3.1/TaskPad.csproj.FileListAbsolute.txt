@@ -1,0 +1,13 @@
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\bin\Debug\netcoreapp3.1\TaskPad.exe
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\bin\Debug\netcoreapp3.1\TaskPad.deps.json
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\bin\Debug\netcoreapp3.1\TaskPad.runtimeconfig.json
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\bin\Debug\netcoreapp3.1\TaskPad.runtimeconfig.dev.json
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\bin\Debug\netcoreapp3.1\TaskPad.dll
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\bin\Debug\netcoreapp3.1\TaskPad.pdb
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\obj\Debug\netcoreapp3.1\TaskPad.csprojAssemblyReference.cache
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\obj\Debug\netcoreapp3.1\TaskPad.AssemblyInfoInputs.cache
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\obj\Debug\netcoreapp3.1\TaskPad.AssemblyInfo.cs
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\obj\Debug\netcoreapp3.1\TaskPad.csproj.CoreCompileInputs.cache
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\obj\Debug\netcoreapp3.1\TaskPad.dll
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\obj\Debug\netcoreapp3.1\TaskPad.pdb
+C:\Users\Utkarsh.Kendre\source\repos\TaskPad\obj\Debug\netcoreapp3.1\TaskPad.genruntimeconfig.cache

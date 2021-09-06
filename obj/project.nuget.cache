@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yAL/qLMU76N4BO/eM9drLYaFz8MAky0x2ZSg+iHwaczr4F9qZAT2mBF4GU25N0OESDmw/qqN0GXO5vPApdpULA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Utkarsh.Kendre\\source\\repos\\TaskPad\\TaskPad.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Utkarsh.Kendre\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
